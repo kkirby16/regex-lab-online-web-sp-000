@@ -31,5 +31,4 @@ if phone.match(/(\D*\d){10}/)
   else 
     return false
   end
-
 end
